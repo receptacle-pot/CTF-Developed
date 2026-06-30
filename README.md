@@ -1,5 +1,5 @@
 # CTF-Developed
 
-###  Hidden-Journey
+### 1st : Hidden Journey
 
-###  Dragon's Legacy
+### 2nd : Dragon's Legacy
